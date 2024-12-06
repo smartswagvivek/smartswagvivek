@@ -69,6 +69,7 @@
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="_vivek_hs__" height="30" width="40" />
     </a>
 </p>
+<hr> 
 <h3 align="left"><b>📊 My GitHub Stats</b></h3>
 
 <!-- Collapsible Top Languages -->
