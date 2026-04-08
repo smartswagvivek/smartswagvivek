@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hello Folks👋, I am VIVEK H S </h1>
-<h3 align="center">Passionate about solving real-world problems with AI-driven solutions, blending creativity and logic. Aspiring software engineer, always learning and exploring innovative technologies to craft futuristic tech solutions.</h3>
+<h3 align="center">Passionate about solving real-world problems with AI-driven solutions, blending creativity and logic. Software engineer, always learning and exploring innovative technologies to craft futuristic tech solutions.</h3>
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 <p align="left"> 
